@@ -3,9 +3,6 @@
     margin: 0;
     border: 0;
 }
-body {
-  width: 100vh;
-}
 .bored {
     border: solid red 1px;
 }
