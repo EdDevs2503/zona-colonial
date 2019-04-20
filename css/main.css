@@ -237,4 +237,17 @@
     margin: 2.5px;
     width: 48%;
   }
+  .navbar-nav li {
+    display: flex!important;
+    flex-direction: row!important;
+    align-items: center!important;
+    justify-content: center!important;
+  }
+  .navbar-nav li img {
+    margin: 0px 0px;
+    margin-right: 10px;
+  }
+}
+.imagenes-sli {
+  max-height: 650px;
 }
